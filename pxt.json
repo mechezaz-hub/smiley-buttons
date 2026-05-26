@@ -14,7 +14,8 @@
         "main.ts",
         "README.md",
         "pxt.json",
-        "_history"
+        "_history",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
@@ -26,5 +27,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "pyprj"
 }
